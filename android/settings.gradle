@@ -1,0 +1,3 @@
+rootProject.name = 'testPrint'
+
+include ':app'
